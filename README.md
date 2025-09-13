@@ -45,4 +45,4 @@ Original Gist: **[https://gist.github.com/steelywing/321a181651af3e14c0f2](https
 ---
 ## 📜 License
 
-This project is open-source and licensed under the **MIT License**. For more details, see the `**[LICENSE](LICENSE) file.
+This project is open-source and licensed under the **MIT License**. For more details, see the **[LICENSE](LICENSE) file.
