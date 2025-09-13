@@ -29,6 +29,7 @@ This keygen is designed to work with:
 
 -   **WinImage 9.0 Professional**
 -   **WinImage 10.0 Professional**
+-   **WinImage 11.0 Professional (not tested)** 
 
 ---
 ## ⚠️ Disclaimer & Legal Stuff
