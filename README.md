@@ -40,9 +40,9 @@ This keygen is designed to work with:
 
 This project is a native Windows port based on the excellent original JavaScript work by **steelywing**. The core algorithm has been adapted for a Visual Basic environment.
 
-Original Gist: `https://gist.github.com/steelywing/321a181651af3e14c0f2`
+Original Gist: **[https://gist.github.com/steelywing/321a181651af3e14c0f2](https://gist.github.com/steelywing/321a181651af3e14c0f2)**
 
 ---
 ## 📜 License
 
-This project is open-source and licensed under the **MIT License**. For more details, see the `LICENSE` file.
+This project is open-source and licensed under the **MIT License**. For more details, see the `**[LICENSE](LICENSE) file.
